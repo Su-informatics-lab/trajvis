@@ -1,0 +1,13 @@
+flask
+flask-restful
+flask-cors
+numpy
+pandas
+#nomkl
+umap-learn
+umap
+#json
+simpleppt
+scipy
+scikit-learn
+tbb
